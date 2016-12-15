@@ -6,5 +6,5 @@ from elfi.storage import *
 from elfi.visualization import *
 
 __author__ = 'ELFI authors'
-__email__ = 'aki.vehtari@aalto.fi'
+__email__ = 'elfi-support@hiit.fi'
 __version__ = '0.2.2'
