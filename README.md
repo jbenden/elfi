@@ -40,6 +40,8 @@ See examples under [notebooks](notebooks) to get started. Full documentation can
 
 Developer installation
 ----------------------
+ELFI is currently tested only with Python 3.5. If you are new to Python, perhaps the simplest way to install it is [Anaconda](https://www.continuum.io/downloads).
+
 ```
 git clone https://github.com/HIIT/elfi.git
 cd elfi
